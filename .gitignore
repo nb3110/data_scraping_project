@@ -1,2 +1,3 @@
 csv/rotten_tomatoes_movies.csv
+csv/imbd_table.csv
 .env
